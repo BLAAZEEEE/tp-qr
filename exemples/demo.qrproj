@@ -1,0 +1,33 @@
+{
+  "titre": "Portes ouvertes du lycée",
+  "typeContenu": "LIEN",
+  "donneesQr": "www.exemple.fr/portes-ouvertes",
+  "description": "Venez découvrir nos formations le samedi 14 mars de 9h à 17h. Scannez le QR code ci-dessous pour accéder au programme complet de la journée.",
+  "tailleQrMm": 60.0,
+  "alignementQr": "CENTRE",
+  "niveauCorrection": "M",
+  "afficherDonnees": true,
+  "profil": {
+    "nom": "Profil par défaut",
+    "police": "C:/Windows/Fonts/georgia.ttf",
+    "tailleTitre": 24.0,
+    "tailleTexte": 12.0,
+    "gras": true,
+    "italique": false,
+    "souligne": false,
+    "couleurTitre": "#C0392B",
+    "couleurTexte": "#222222",
+    "couleurFondPage": "#FFF8E1",
+    "couleurQr": "#1A237E",
+    "couleurFondQr": "#FFFFFF"
+  },
+  "images": [
+    {
+      "chemin": "C:\\Users\\natha\\Downloads\\qr code\\exemples\\logo.png",
+      "x": 150.0,
+      "y": 240.0,
+      "largeur": 45.0,
+      "hauteur": 27.0
+    }
+  ]
+}
